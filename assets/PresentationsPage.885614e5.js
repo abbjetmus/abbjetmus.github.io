@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.7df5c3dc.js";import{$ as a,a as t,ab as o,a3 as s,f as n}from"./index.bf749c16.js";const r=n("h1",null,"Presentationer",-1),f=a({__name:"PresentationsPage",setup(_){return(c,i)=>(t(),o(e,null,{default:s(()=>[r]),_:1}))}});export{f as default};
